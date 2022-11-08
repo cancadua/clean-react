@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    width: auto;
+    height: 4rem;
+    background-color: cornflowerblue;
+}
+
+.container button {
+    font-size: 2rem;
+    width: 5rem;
+}
